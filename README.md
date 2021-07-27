@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @c14rk
+- 👀 I’m interested in latest technology
+- 🌱 I’m currently learning Python. New to programming by the way :)
+- 📫 Reach me at clark@bypass.htb
